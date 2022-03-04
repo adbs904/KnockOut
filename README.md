@@ -16,9 +16,12 @@ P2: Rotate with Left Arrow and Right Arrow and move forward with Up Arrow
 Your Aim is to win 3 out of 5 Matches by knocking your opponent off the screen.
 You can collect a boost power up that lasts the entire round once collected.
 
-The music used was created by Suragi-0 on SoundCloud, The songs include:
+The music used in this game are remixes of fighting game music created by Suragi-0 on SoundCloud, The songs include:
 
-Phonon's Theme - Undernight In-Birth
-Communication (Ky vs Sin Theme) - Guilty Gear Xrd Revelator
+Sound of the Night Wind (Phonon's Theme) - Under Night In-Birth Exe:Late[st]
+Beat Eat Nest (Byakuya's Theme) - Under Night In-Birth Exe:Late
+Communication (Sin vs Ky Theme) - Guilty Gear 2 Overture
+
+All other sound effects were created using BeepBox:https://beepbox.co
 
 

@@ -16,4 +16,9 @@ P2: Rotate with Left Arrow and Right Arrow and move forward with Up Arrow
 Your Aim is to win 3 out of 5 Matches by knocking your opponent off the screen.
 You can collect a boost power up that lasts the entire round once collected.
 
+The music used was created by Suragi-0 on SoundCloud, The songs include:
+
+Phonon's Theme - Undernight In-Birth
+Communication (Ky vs Sin Theme) - Guilty Gear Xrd Revelator
+
 

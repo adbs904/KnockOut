@@ -19,7 +19,9 @@ You can collect a boost power up that lasts the entire round once collected.
 The music used in this game are remixes of fighting game music created by Suragi-0 on SoundCloud, The songs include:
 
 Sound of the Night Wind (Phonon's Theme) - Under Night In-Birth Exe:Late[st]
+
 Beat Eat Nest (Byakuya's Theme) - Under Night In-Birth Exe:Late
+
 Communication (Sin vs Ky Theme) - Guilty Gear 2 Overture
 
 All other sound effects were created using BeepBox:https://beepbox.co
